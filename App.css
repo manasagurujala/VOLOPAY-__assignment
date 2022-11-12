@@ -12,6 +12,35 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.container_app{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding:150px;
+
+}
+.unorderlist-con{
+  display: flex;
+  flex-wrap: wrap;
+}
+.tab-list{
+  display: flex;
+}
+.con-heading{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.heading-con{
+  display: flex;
+  flex-direction: row;
+}
+.TabList-con{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding:15px
+}
 
 .App-header {
   background-color: #282c34;
@@ -23,9 +52,32 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.tabs-list {
+  display: flex;
+  align-items: flex-end;
+  padding-left: 0px;
+  margin-top: 32px;
+}
+.heading-app{
+  color: blue;
+  font-size: 25px;
+}
 .App-link {
   color: #61dafb;
+}
+.pop-con{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  
+}
+.con-filer-pop{
+  width:550px;
+  padding: 10px;
+  background-color: transparent;
+}
+.con-input-checkbox{
+  width: 350px;
 }
 
 @keyframes App-logo-spin {
