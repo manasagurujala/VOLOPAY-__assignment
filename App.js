@@ -4,9 +4,8 @@ import Popup from 'reactjs-popup';
 import 'reactjs-popup/dist/index.css';
 import CardItem from "./components/CardItem/index"
 import TabItem from './components/TabItem'
-import {IoReorderFourSharp} from "react-icons/io5"
-import {AiFillAppstore} from "react-icons/ai"
-import { FcCamcorderPro,FcDatabase ,FcSearch} from "react-icons/fc";
+
+import { FcCamcorderPro,FcGrid,FcDatabase,FcFilledFilter,FcSearch} from "react-icons/fc";
 import "./App.css"
 
 const tabsList = [
@@ -16,39 +15,28 @@ const tabsList = [
 
 class AppStore extends Component {
   state = {
-    cardTypeBurner:"burner",
+  
     cardList: [],
-    CardBurner:false,
+    CardTypeStatus:"",
     activeTabId:tabsList[1].tabId
   }
 
   setActiveTabId = tabId => {
 
-    this.setState({activeTabId: tabId})
-
+    this.setState({activeTabId: tabId})    
     console.log(tabId)
   }
 
   SelectBurner=()=>{
-     const {CardBurner}=this.state
-     this.setState(prevState => {
-      return { CardBurner: !prevState.CardBurner};
-    });
-    console.log(CardBurner)
-    
+  this.setState({CardTypeStatus:"burner"})
+  }
+  
+  SelectSub=()=>{
+    this.setState({CardTypeStatus:"sub"})
   }
 
-  getActiveTabApps = cardList => {
-    const {activeTabId} = this.state
-    const filteredApps = cardList.filter(
 
-      eachS => eachS.Category === activeTabId,
-      
-    )
-    console.log(filteredApps)
-    return filteredApps
-   
-  }
+  
 
   componentDidMount() {
     this.getData()
@@ -69,7 +57,8 @@ class AppStore extends Component {
       ExpiryDate:each.expiry_date,
       ListSpend:each.spent,
       ListA:each.avaible,
-      Id:each.owner_id,
+      Id:each.id,
+      OwnerId:each.owner_id,
       ActiveCategory:each.active_tab,
       Category:each.Category
       
@@ -77,19 +66,33 @@ class AppStore extends Component {
     this.setState({cardList: Updated})
     
   }
+  getActiveTabApps = cardList=> {
+    const {activeTabId} = this.state
+    
+    const filteredApps =cardList.filter(
+
+      eachS => eachS.Category === activeTabId,
+      
+    )
+    return filteredApps
+  }
+ 
+
 
   render() {
-    const {cardList,activeTabId} = this.state
+    const {activeTabId,cardList} = this.state
+  
     const filteredApps =this.getActiveTabApps(cardList)
+    
     return (
       <div className='container_app'>
        <div className='con-heading'>
         <div className='heading-con'>
         <h1 className='heading-app'>Vitrual Cards</h1>
-        <p>   <FcCamcorderPro/> Learn more</p>
+        <p className='para-app'>   <FcCamcorderPro/> Learn more</p>
         </div>
-        <div>
-          <p>+ Vitrual Card</p>
+        <div className='virtual-card'>
+          <p className='para-cart-vc'> + Vitrual Card</p>
           
         </div>
        </div>
@@ -99,39 +102,48 @@ class AppStore extends Component {
                 <TabItem key={eachTab.tabId} TabDetails={eachTab} setActiveTabId={this.setActiveTabId} 
                isActive={ activeTabId === eachTab.tabId}/>
               ))}
+             
             </ul>
-          
+            
               <div>
-                <AiFillAppstore/>
-                <IoReorderFourSharp/>
+                <FcGrid/>
+                <FcDatabase/>
               </div>
-          
+         
          </div>
-         <hr/>
+       <hr/>
          <div className='pop-con'>
    
               <Popup  trigger={
-              <div><FcSearch/>
-                  <button>
-                    <FcDatabase/> Filter
+              <div  >
+                <FcSearch/>
+                  <button className='popUpButton'>
+                    <FcFilledFilter/> Filter
                   </button>
               </div>} 
               position="left center" >
                 <div className='con-filer-pop'>
-                    <h1>Filters</h1>
-                    <hr/>
+                    <h1 className='heading-pop-up'>Filters</h1>
+                      <hr className='hr-line'/>
                       <div className='con-input-checkbox'>
-                          <input id="burner" type="checkbox" onClick={this.SelectBurner}/>
-                          <label htmlFor='burner'>Burner</label>
-                          <input id="sub" type="checkbox"/>
-                          <label htmlFor='sub'>Subcription</label>
+                        <p> Type</p>
+                          <input  id="burner" type="checkbox" onClick={this.SelectBurner}/>
+                          <label className='input-label' htmlFor='burner'>Burner</label>
+                          <input id="sub" type="checkbox" onClick={this.SelectSub}/>
+                          <label className='input-label' htmlFor='sub'>Subcription</label>
                       </div>
-                      <div>
-                          <label>card holder</label>
-                          <select>
-                            <option value="grapefruit">Grapefruit</option>
-                            <option >card1</option>
+                      <div className='card-con'>
+                          <p className='cardholder-heading'>card holder</p>
+                          <select className='select-cardholder'>
+                            <option>Select Cardholder</option>
+                            {cardList.map(eachOwner =>(
+                              <option key={eachOwner.Id} value={eachOwner.CardHolder}>{eachOwner.CardHolder}</option>
+                            ))}
                           </select>
+                          <div className='button-con'>
+                            <button className='button-apply'>apply</button>
+                            <button className='button-clear'>clear</button>
+                          </div>
                       </div>
                 </div>
               </Popup>
@@ -139,6 +151,7 @@ class AppStore extends Component {
             
   </div>
   <div>
+    
           <ul className='unorderlist-con'>     
             {filteredApps.map(each=>(
               
