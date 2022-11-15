@@ -1,0 +1,2002 @@
+[
+ {
+  "company_name": "Ledner Inc",
+  "card_holder": "Millie",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-13T08:18:37.827Z",
+  "spent": {
+   "value": 35236,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 5724,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "",
+  "Category": "BLOCKED",
+  "owner_id": 1,
+  "status": "inactive",
+  "id": "1"
+ },
+ {
+  "company_name": "Murazik - Huel",
+  "card_holder": "Brooke",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-07-05T15:18:56.150Z",
+  "spent": {
+   "value": 7147,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 5090,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 85,
+  "status": "inactive",
+  "id": "2"
+ },
+ {
+  "company_name": "Windler - Marks",
+    "card_holder": "Millie",
+  "company_type": "software subscription",
+ "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-06-24T09:27:02.595Z",
+  "spent": {
+   "value": 84887,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 45827,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 1,
+  "status": "active",
+  "id": "3"
+ },
+ {
+  "company_name": "Bins - Friesen",
+    "card_holder": "Millie",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-03-26T12:32:56.882Z",
+  "spent": {
+   "value": 13379,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 4219,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 1,
+  "status": "active",
+  "id": "4"
+ },
+ {
+  "company_name": "D'Amore - Haley",
+  "card_holder": "Guillermo",
+  "company_type": "software subscription",
+   "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-10-15T01:51:14.378Z",
+  "spent": {
+   "value": 42501,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 40756,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 5,
+  "status": "active",
+  "id": "5"
+ },
+ {
+  "company_name": "Stehr, Beahan and Shanahan",
+  "card_holder": "Marilyne",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-01-26T21:45:41.468Z",
+  "spent": {
+   "value": 81444,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 22333,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 56,
+  "status": "active",
+  "id": "6"
+ },
+ {
+  "company_name": "Reichel and Sons",
+  "card_holder": "Gardner",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-07-01T20:45:38.631Z",
+  "spent": {
+   "value": 72943,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 8755,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 47,
+  "status": "active",
+  "id": "7"
+ },
+ {
+  "company_name": "Ledner - Von",
+  "card_holder": "Kevon",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-06-15T18:35:49.077Z",
+  "spent": {
+   "value": 38738,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 4808,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 13,
+  "status": "active",
+  "id": "8"
+ },
+ {
+  "company_name": "Bailey Inc",
+  "card_holder": "Deshawn",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-01-30T19:05:56.432Z",
+  "spent": {
+   "value": 62464,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 43524,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 59,
+  "status": "active",
+  "id": "9"
+ },
+ {
+  "company_name": "Hilpert Inc",
+  "card_holder": "Jeremy",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-03-02T17:21:40.511Z",
+  "spent": {
+   "value": 96547,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 81277,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 90,
+  "status": "active",
+  "id": "10"
+ },
+ {
+  "company_name": "Waelchi Inc",
+  "card_holder": "Gisselle",
+  "company_type": "software subscription",
+   "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-04-14T22:19:48.059Z",
+  "spent": {
+   "value": 14332,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 12435,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 57,
+  "status": "active",
+  "id": "11"
+ },
+ {
+  "company_name": "McKenzie - Prohaska",
+  "card_holder": "Hassie",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-02-14T12:36:28.815Z",
+  "spent": {
+   "value": 48700,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 41894,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 77,
+  "status": "active",
+  "id": "12"
+ },
+ {
+  "company_name": "Simonis - Romaguera",
+   "card_holder": "Millie",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-09-30T09:26:32.075Z",
+  "spent": {
+   "value": 35054,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 8712,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 1,
+  "status": "active",
+  "id": "13"
+ },
+ {
+  "company_name": "Cummings & Goodwin",
+  "card_holder": "Jayne",
+  "company_type": "software subscription",
+   "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-06-25T05:56:14.348Z",
+  "spent": {
+   "value": 95837,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 66422,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 1,
+  "status": "active",
+  "id": "14"
+ },
+ {
+  "company_name": "Schneider and Koepp",
+  "card_holder": "Shanie",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-09-04T16:49:16.813Z",
+  "spent": {
+   "value": 84125,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 6197,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 76,
+  "status": "active",
+  "id": "15"
+ },
+ {
+  "company_name": "Gleason and Sons",
+  "card_holder": "Trent",
+  "company_type": "software subscription",
+    "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-05-22T10:45:37.769Z",
+  "spent": {
+   "value": 8746,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 1587,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 10,
+  "status": "active",
+  "id": "16"
+ },
+ {
+  "company_name": "Stamm -  Emard",
+  "card_holder": "Ray",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-09-05T09:04:30.568Z",
+  "spent": {
+   "value": 75599,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 50187,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 30,
+  "status": "active",
+  "id": "17"
+ },
+ {
+  "company_name": "Stiedemann Inc",
+  "card_holder": "Darryl",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-02-08T20:52:40.174Z",
+  "spent": {
+   "value": 57255,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 9751,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 38,
+  "status": "active",
+  "id": "18"
+ },
+ {
+  "company_name": "Fahey Inc",
+  "card_holder": "Marlin",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-09-07T01:08:37.965Z",
+  "spent": {
+   "value": 50418,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 4842,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 72,
+  "status": "active",
+  "id": "19"
+ },
+ {
+  "company_name": "Hintz, Sipes and Klein",
+  "card_holder": "Cristina",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-08-04T17:43:38.782Z",
+  "spent": {
+   "value": 85789,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 54702,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 59,
+  "status": "active",
+  "id": "20"
+ },
+ {
+  "company_name": "Mraz - Senger",
+  "card_holder": "Brooke",
+  "company_type": "software subscription",
+   "card_type": "SUBSCRIPTION",
+  "expiry_date": "2022-12-27T23:11:03.857Z",
+  "spent": {
+   "value": 80234,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 3030,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 8,
+  "status": "active",
+  "id": "21"
+ },
+ {
+  "company_name": "Gusikowski - VonRueden",
+  "card_holder": "Joe",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2022-12-22T19:47:58.330Z",
+  "spent": {
+   "value": 70623,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 31575,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 57,
+  "status": "active",
+  "id": "22"
+ },
+ {
+  "company_name": "Dibbert and Sons",
+  "card_holder": "Vernie",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-05-30T02:01:55.174Z",
+  "spent": {
+   "value": 76259,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 23593,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 71,
+  "status": "active",
+  "id": "23"
+ },
+ {
+  "company_name": "Corkery, Bradtke and Abshire",
+  "card_holder": "Lexi",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-05-03T07:55:35.317Z",
+  "spent": {
+   "value": 24825,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 2275,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 52,
+  "status": "active",
+  "id": "24"
+ },
+ {
+  "company_name": "MacGyver - Emard",
+  "card_holder": "Edna",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-07-07T20:11:54.409Z",
+  "spent": {
+   "value": 76068,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 6340,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 11,
+  "status": "active",
+  "id": "25"
+ },
+ {
+  "company_name": "West - Schaden",
+  "card_holder": "Agustin",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-06-22T11:20:10.007Z",
+  "spent": {
+   "value": 36041,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 33227,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 67,
+  "status": "active",
+  "id": "26"
+ },
+ {
+  "company_name": "Hudson - Ortiz",
+  "card_holder": "Greta",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2022-11-20T02:40:25.644Z",
+  "spent": {
+   "value": 89448,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 31873,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 10,
+  "status": "active",
+  "id": "27"
+ },
+ {
+  "company_name": "Batz Inc",
+  "card_holder": "Baby",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-08-21T23:28:33.921Z",
+  "spent": {
+   "value": 27618,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 17186,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 94,
+  "status": "active",
+  "id": "28"
+ },
+ {
+  "company_name": "Hartmann LLC",
+  "card_holder": "Jimmie",
+  "company_type": "software subscription",
+  "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-08-28T18:46:59.870Z",
+  "spent": {
+   "value": 51295,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 56236,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 77,
+  "status": "inactive",
+  "id": "29"
+ },
+ {
+  "company_name": "Von- Harvey",
+  "card_holder": "Zachery",
+  "company_type": "software subscription",
+  "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-02-07T06:01:07.944Z",
+  "spent": {
+   "value": 71282,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 29799,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 8,
+  "status": "active",
+  "id": "30"
+ },
+ {
+  "company_name": "Harber - Glover",
+  "card_holder": "Cielo",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-22T20:11:57.937Z",
+  "spent": {
+   "value": 58235,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 25674,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 50,
+  "status": "active",
+  "id": "31"
+ },
+ {
+  "company_name": "Brown - Purdy",
+  "card_holder": "Ron",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-02-21T15:02:38.811Z",
+  "spent": {
+   "value": 85178,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 37091,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 64,
+  "status": "active",
+  "id": "32"
+ },
+ {
+  "company_name": "Monahan Group",
+  "card_holder": "Nellie",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-07-19T18:14:07.666Z",
+  "spent": {
+   "value": 88976,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 54921,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 83,
+  "status": "active",
+  "id": "33"
+ },
+ {
+  "company_name": "Beahan Group",
+  "card_holder": "Baby",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-15T08:50:58.173Z",
+  "spent": {
+   "value": 55424,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 19677,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 92,
+  "status": "active",
+  "id": "34"
+ },
+ {
+  "company_name": "Klein - Grady",
+  "card_holder": "Mara",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-04T23:07:13.274Z",
+  "spent": {
+   "value": 48733,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 20854,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 53,
+  "status": "inactive",
+  "id": "35"
+ },
+ {
+  "company_name": "Hills Bernhard",
+  "card_holder": "Dawn",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-04-05T11:00:11.577Z",
+  "spent": {
+   "value": 76860,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 20078,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 28,
+  "status": "inactive",
+  "id": "36"
+ },
+ {
+  "company_name": "Ondricka LLC",
+  "card_holder": "Isobel",
+  "company_type": "software subscription",
+    "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-07-28T21:06:23.728Z",
+  "spent": {
+   "value": 18381,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 6774,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 25,
+  "status": "active",
+  "id": "37"
+ },
+ {
+  "company_name": "Lehner Group",
+  "card_holder": "Clay",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-05T23:34:33.687Z",
+  "spent": {
+   "value": 57034,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 47482,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 98,
+  "status": "inactive",
+  "id": "38"
+ },
+ {
+  "company_name": "Kerluke Group",
+  "card_holder": "Rodolfo",
+  "company_type": "software subscription",
+   "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-09-21T13:53:16.153Z",
+  "spent": {
+   "value": 79103,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 74199,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 31,
+  "status": "inactive",
+  "id": "39"
+ },
+ {
+  "company_name": "Medhurst - Koepp",
+  "card_holder": "Herminia",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-11-13T08:53:29.694Z",
+  "spent": {
+   "value": 91604,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 38951,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 40,
+  "status": "active",
+  "id": "40"
+ },
+ {
+  "company_name": "Toy, Johns and Rice",
+  "card_holder": "Jakob",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-12T22:54:19.577Z",
+  "spent": {
+   "value": 36182,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 27097,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 70,
+  "status": "active",
+  "id": "41"
+ },
+ {
+  "company_name": "Gaylord - Hettinger",
+  "card_holder": "Webster",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-16T21:40:21.660Z",
+  "spent": {
+   "value": 38042,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 13017,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 71,
+  "status": "active",
+  "id": "42"
+ },
+ {
+  "company_name": "Bogisich - Littel",
+  "card_holder": "Adonis",
+  "company_type": "software subscription",
+   "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-08-07T03:36:51.404Z",
+  "spent": {
+   "value": 41649,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 3824,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 53,
+  "status": "inactive",
+  "id": "43"
+ },
+ {
+  "company_name": "Jaskolski LLC",
+  "card_holder": "Felicia",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-05-08T11:22:41.708Z",
+  "spent": {
+   "value": 92002,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 45666,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 97,
+  "status": "active",
+  "id": "44"
+ },
+ {
+  "company_name": "Heller, Johnston",
+  "card_holder": "Abdul",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-21T05:58:04.332Z",
+  "spent": {
+   "value": 54045,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 28525,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 37,
+  "status": "active",
+  "id": "45"
+ },
+ {
+  "company_name": "Wilkinson and Wiegand",
+  "card_holder": "Christy",
+  "company_type": "software subscription",
+   "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-01-29T02:05:38.670Z",
+  "spent": {
+   "value": 71134,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 40006,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 69,
+  "status": "active",
+  "id": "46"
+ },
+ {
+  "company_name": "Corkery - Lang",
+  "card_holder": "Annetta",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2022-11-30T17:06:33.367Z",
+  "spent": {
+   "value": 82011,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 79761,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 95,
+  "status": "active",
+  "id": "47"
+ },
+ {
+  "company_name": "Maggio - Tillman",
+  "card_holder": "Isaias",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-29T22:03:09.623Z",
+  "spent": {
+   "value": 34263,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 11844,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 33,
+  "status": "active",
+  "id": "48"
+ },
+ {
+  "company_name": "Parisian Inc",
+  "card_holder": "Jaron",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-02-09T00:32:30.819Z",
+  "spent": {
+   "value": 52003,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 35012,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 80,
+  "status": "active",
+  "id": "49"
+ },
+ {
+  "company_name": "McDermott LLC",
+  "card_holder": "Aisha",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-06-17T11:40:23.769Z",
+  "spent": {
+   "value": 78029,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 52697,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 16,
+  "status": "active",
+  "id": "50"
+ },
+ {
+  "company_name": "Haag - Pagac",
+  "card_holder": "Erik",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-04-16T07:34:22.259Z",
+  "spent": {
+   "value": 78425,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 18472,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 53,
+  "status": "active",
+  "id": "51"
+ },
+ {
+  "company_name": "Keebler - Reinger",
+  "card_holder": "Skylar",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-24T23:47:40.424Z",
+  "spent": {
+   "value": 92553,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 63764,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 23,
+  "status": "active",
+  "id": "52"
+ },
+ {
+  "company_name": "Kutch - Daniel",
+  "card_holder": "Reanna",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-06-18T14:07:57.676Z",
+  "spent": {
+   "value": 32574,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 11547,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 60,
+  "status": "active",
+  "id": "53"
+ },
+ {
+  "company_name": "Rosenbaum - Monahan",
+  "card_holder": "Sarina",
+  "company_type": "software subscription",
+    "card_type": "SUBSCRIPTION",
+  "expiry_date": "2022-12-25T12:19:47.420Z",
+  "spent": {
+   "value": 18045,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 14855,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 93,
+  "status": "active",
+  "id": "54"
+ },
+ {
+  "company_name": "Wuckert - Cormier",
+  "card_holder": "Emory",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-07-30T13:19:05.220Z",
+  "spent": {
+   "value": 70777,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 13985,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 56,
+  "status": "active",
+  "id": "55"
+ },
+ {
+  "company_name": "Shields Inc",
+  "card_holder": "Raegan",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-07-15T16:55:09.404Z",
+  "spent": {
+   "value": 45777,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 31042,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 61,
+  "status": "active",
+  "id": "56"
+ },
+ {
+  "company_name": "Heidenreich Group",
+  "card_holder": "Alfredo",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-09-13T03:29:39.288Z",
+  "spent": {
+   "value": 72104,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 66762,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 78,
+  "status": "active",
+  "id": "57"
+ },
+ {
+  "company_name": "Brakus - Kuhic",
+  "card_holder": "Linwood",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-01-16T15:32:31.643Z",
+  "spent": {
+   "value": 19096,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 3852,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 75,
+  "status": "active",
+  "id": "58"
+ },
+ {
+  "company_name": "Goodwin - Nitzsche",
+  "card_holder": "Cora",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-23T20:18:20.823Z",
+  "spent": {
+   "value": 57598,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 9601,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 53,
+  "status": "inactive",
+  "id": "59"
+ },
+ {
+  "company_name": "Herman and Sons",
+  "card_holder": "Elna",
+  "company_type": "software subscription",
+   "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-06-05T10:05:31.143Z",
+  "spent": {
+   "value": 79017,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 37051,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 75,
+  "status": "active",
+  "id": "60"
+ },
+ {
+  "company_name": "Kunze Pouros",
+  "card_holder": "Josefa",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-06-29T02:22:58.963Z",
+  "spent": {
+   "value": 74205,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 11688,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 58,
+  "status": "active",
+  "id": "61"
+ },
+ {
+  "company_name": "Beier Inc",
+   "card_holder": "Millie",
+  "company_type": "software subscription",
+  "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-04-22T02:30:14.259Z",
+  "spent": {
+   "value": 72512,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 9537,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 1,
+  "status": "active",
+  "id": "62"
+ },
+ {
+  "company_name": "Smitham-Aufderhar",
+  "card_holder": "Colin",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2022-12-25T10:16:04.333Z",
+  "spent": {
+   "value": 91293,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 9595,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 40,
+  "status": "active",
+  "id": "63"
+ },
+ {
+  "company_name": "Kuvalis - Schimmel",
+  "card_holder": "Sandy",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-03-10T21:32:05.073Z",
+  "spent": {
+   "value": 69440,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 17303,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 88,
+  "status": "active",
+  "id": "64"
+ },
+ {
+  "company_name": "Larson Inc",
+   "card_holder": "Millie",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2022-12-04T05:23:43.255Z",
+  "spent": {
+   "value": 32096,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 24049,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 1,
+  "status": "active",
+  "id": "65"
+ },
+ {
+  "company_name": "Wiegand - Schulist",
+  "card_holder": "Luciano",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-07-18T15:42:13.334Z",
+  "spent": {
+   "value": 89143,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 80386,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 96,
+  "status": "active",
+  "id": "66"
+ },
+ {
+  "company_name": "Strosin LLC",
+  "card_holder": "Dorothea",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-07-09T23:36:59.866Z",
+  "spent": {
+   "value": 91536,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 85537,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 64,
+  "status": "active",
+  "id": "67"
+ },
+ {
+  "company_name": "Krajcik LLC",
+    "card_holder": "Millie",
+  "company_type": "software subscription",
+    "card_type": "SUBSCRIPTION",
+  "expiry_date": "2022-12-08T14:24:15.490Z",
+  "spent": {
+   "value": 51313,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 2203,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 1,
+  "status": "active",
+  "id": "68"
+ },
+ {
+  "company_name": "Zemlak Group",
+  "card_holder": "Nigel",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-03-17T21:13:57.874Z",
+  "spent": {
+   "value": 84071,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 8369,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 82,
+  "status": "active",
+  "id": "69"
+ },
+ {
+  "company_name": "Kerluke - Lowe",
+  "card_holder": "Brigitte",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-02-22T18:34:32.110Z",
+  "spent": {
+   "value": 37375,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 35024,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 50,
+  "status": "active",
+  "id": "70"
+ },
+ {
+  "company_name": "Bartell - Kemmer",
+  "card_holder": "Dion",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-06-20T11:07:53.545Z",
+  "spent": {
+   "value": 49144,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 25469,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 74,
+  "status": "active",
+  "id": "71"
+ },
+ {
+  "company_name": "Gislason - Grady",
+  "card_holder": "Junius",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-04-21T17:33:09.922Z",
+  "spent": {
+   "value": 6783,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 1035,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 24,
+  "status": "active",
+  "id": "72"
+ },
+ {
+  "company_name": "Dougla- Boyer",
+  "card_holder": "Heber",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-02T04:54:14.913Z",
+  "spent": {
+   "value": 61572,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 11012,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 34,
+  "status": "active",
+  "id": "73"
+ },
+ {
+  "company_name": "Kub, Weber and Konopelski",
+  "card_holder": "Cleveland",
+  "company_type": "software subscription",
+  "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-09-26T21:43:05.918Z",
+  "spent": {
+   "value": 56553,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 37905,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 31,
+  "status": "active",
+  "id": "74"
+ },
+ {
+  "company_name": "Kihn LLC",
+  "card_holder": "Phyllis",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-01-06T14:19:57.262Z",
+  "spent": {
+   "value": 54263,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 25575,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 18,
+  "status": "active",
+  "id": "75"
+ },
+ {
+  "company_name": "Jenkins - Corkery",
+  "card_holder": "Mozell",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-04-04T16:02:23.662Z",
+  "spent": {
+   "value": 68629,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 8462,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 11,
+  "status": "active",
+  "id": "76"
+ },
+ {
+  "company_name": "Rempel - Pfannerstill",
+   "card_holder": "Millie",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-03-05T15:02:16.246Z",
+  "spent": {
+   "value": 78286,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 2806,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 1,
+  "status": "active",
+  "id": "77"
+ },
+ {
+  "company_name": "Cummerata - Jakubowski",
+  "card_holder": "Quinn",
+  "company_type": "software subscription",
+  "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-01-12T04:31:08.508Z",
+  "spent": {
+   "value": 40267,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 1228,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 65,
+  "status": "active",
+  "id": "78"
+ },
+ {
+  "company_name": "Ferry- Kutch",
+  "card_holder": "Harold",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-07-06T15:02:58.081Z",
+  "spent": {
+   "value": 63123,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 1571,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 2,
+  "status": "active",
+  "id": "79"
+ },
+ {
+  "company_name": "Breitenberg - Erdman",
+  "card_holder": "Jess",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-04-14T00:58:32.202Z",
+  "spent": {
+   "value": 89975,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 7241,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 58,
+  "status": "active",
+  "id": "80"
+ },
+ {
+  "company_name": "Collier Kris",
+  "card_holder": "Broderick",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2022-12-06T20:15:43.155Z",
+  "spent": {
+   "value": 3150,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 506,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 28,
+  "status": "active",
+  "id": "81"
+ },
+ {
+  "company_name": "Buckridge - Bednar",
+  "card_holder": "Elmore",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-05-01T15:45:22.413Z",
+  "spent": {
+   "value": 87234,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 40673,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 86,
+  "status": "active",
+  "id": "82"
+ },
+ {
+  "company_name": "Fadel - Kerluke",
+  "card_holder": "Toni",
+  "company_type": "software subscription",
+  "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-02-27T10:22:02.477Z",
+  "spent": {
+   "value": 71656,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 196,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 73,
+  "status": "active",
+  "id": "83"
+ },
+ {
+  "company_name": "WillConn",
+  "card_holder": "Lon",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-08-21T11:02:23.898Z",
+  "spent": {
+   "value": 33517,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 18186,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 19,
+  "status": "active",
+  "id": "84"
+ },
+ {
+  "company_name": "Hansen and Sons",
+  "card_holder": "Danial",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-04-10T17:34:22.048Z",
+  "spent": {
+   "value": 79473,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 68123,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 87,
+  "status": "active",
+  "id": "85"
+ },
+ {
+  "company_name": "Strosin - Grady",
+  "card_holder": "Arely",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-27T01:36:03.913Z",
+  "spent": {
+   "value": 27989,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 1757,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 48,
+  "status": "active",
+  "id": "86"
+ },
+ {
+  "company_name": "Baumbach and Sons",
+  "card_holder": "Ila",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-14T02:58:56.872Z",
+  "spent": {
+   "value": 88047,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 29673,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 50,
+  "status": "active",
+  "id": "87"
+ },
+ {
+  "company_name": "O'Kon - Cummings",
+  "card_holder": "Fleta",
+  "company_type": "software subscription",
+   "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-10-01T04:20:53.249Z",
+  "spent": {
+   "value": 94152,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 79905,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 22,
+  "status": "active",
+  "id": "88"
+ },
+ {
+  "company_name": "Gerhold Group",
+  "card_holder": "Candelario",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-02-15T12:23:11.774Z",
+  "spent": {
+   "value": 60755,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 10680,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 27,
+  "status": "active",
+  "id": "89"
+ },
+ {
+  "company_name": "Beahan - Rodriguez",
+  "card_holder": "Arnold",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2022-12-25T10:53:38.418Z",
+  "spent": {
+   "value": 91871,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 67989,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 80,
+  "status": "active",
+  "id": "90"
+ },
+ {
+  "company_name": "Ryan and Sons",
+  "card_holder": "Brennan",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-09-22T10:42:04.516Z",
+  "spent": {
+   "value": 22906,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 21797,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 45,
+  "status": "active",
+  "id": "91"
+ },
+ {
+  "company_name": "Roberts and Kuhlman",
+  "card_holder": "Wilhelmine",
+  "company_type": "software subscription",
+   "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-06-28T17:30:24.929Z",
+  "spent": {
+   "value": 99174,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 17062,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 88,
+  "status": "active",
+  "id": "92"
+ },
+ {
+  "company_name": "Roberts Group",
+  "card_holder": "Maryam",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-08-26T19:39:16.422Z",
+  "spent": {
+   "value": 66864,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 38349,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 31,
+  "status": "active",
+  "id": "93"
+ },
+ {
+  "company_name": "Gottlieb - Harvey",
+  "card_holder": "Maryjane",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2022-12-03T03:54:48.047Z",
+  "spent": {
+   "value": 42730,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 10529,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 72,
+  "status": "active",
+  "id": "94"
+ },
+ {
+  "company_name": "Mohr and Sons",
+  "card_holder": "Elsie",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-12T20:55:25.970Z",
+  "spent": {
+   "value": 64796,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 12453,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 80,
+  "status": "active",
+  "id": "95"
+ },
+ {
+  "company_name": "Kozey and O'Kon",
+  "card_holder": "Scotty",
+  "company_type": "software subscription",
+   "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-04-25T01:07:03.482Z",
+  "spent": {
+   "value": 81637,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 24653,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 15,
+  "status": "active",
+  "id": "96"
+ },
+ {
+  "company_name": "Swift and Pfannerstill",
+  "card_holder": "Kaylie",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2023-10-11T21:58:58.544Z",
+  "spent": {
+   "value": 31814,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 18408,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 88,
+  "status": "active",
+  "id": "97"
+ },
+ {
+  "company_name": "Abernathy - Barrows",
+  "card_holder": "Arnulfo",
+  "company_type": "software subscription",
+  "card_type": "BURNER",
+  "expiry_date": "2022-11-25T18:55:17.545Z",
+  "spent": {
+   "value": 64984,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 34248,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 39,
+  "status": "active",
+  "id": "98"
+ },
+ {
+  "company_name": "Hintz  and Bauch",
+  "card_holder": "Grayson",
+  "company_type": "software subscription",
+  "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-06-21T02:39:47.889Z",
+  "spent": {
+   "value": 58140,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 53100,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 81,
+  "status": "active",
+  "id": "99"
+ },
+ {
+  "company_name": "Runolfsdottir LLC",
+    "card_holder": "Millie",
+  "company_type": "software subscription",
+  "card_type": "SUBSCRIPTION",
+  "expiry_date": "2023-05-11T05:35:07.376Z",
+  "spent": {
+   "value": 82730,
+   "currencySpend": "SGD"
+  },
+  "avaible": {
+   "value1": 55267,
+   "currencyAvailable": "SGD"
+  },
+  "active_tab": "active_tab 1",
+  "Category": "ALL",
+  "owner_id": 1,
+  "status": "inactive",
+  "id": "100"
+ }
+]
