@@ -40,28 +40,11 @@ class AppStore extends Component {
 
   ApplyChanges = (event) => {
     event.preventDefault()
-    const { CardStatusB, cardList, CardStatusS } = this.state
-  if (CardStatusB) {
-    const filtered = cardList.filter(each => each.CardType === "BURNER")
-  
-    return filtered
-
-  }
- 
-  else if (CardStatusS) {
-    const filtered = cardList.filter(each => each.CardType === "SUBSCRIPTION")
-    console.log(filtered.length)
-    return filtered
-
-  }
-  
-  else if(CardStatusB && CardStatusS){
-    
-    console.log(cardList.length)
+   this.GetCheckBoxData()
   }
 
     
-}
+
 
   componentDidMount() {
     this.getData()
@@ -99,10 +82,10 @@ class AppStore extends Component {
       this.setState({ hasMore: false });
       return;
     }
-  
+   
     setTimeout(() => {
       this.setState((prevState) => ({ApiNumber:prevState.ApiNumber+10 }))
-    }, 1000);
+    }, 500);
 
       const { ApiNumber} = this.state
       console.log(ApiNumber)
@@ -133,12 +116,13 @@ class AppStore extends Component {
       this.setState({ cardList: Updated })
       
     }
-    
-  
-  
-
-
-  
+  GetCheckBoxData=()=>{
+    const {CardStatusB,cardList}=this.state
+    if (CardStatusB){
+      const filtered = cardList.filter(each => each.CardType === "BURNER")
+      return filtered
+    }
+  }
   getActiveTabApps = cardList => {
     const { activeTabId } = this.state
 
@@ -152,6 +136,7 @@ class AppStore extends Component {
       const filteredApps = cardList.filter(each => each.OwnerId === 1)
       return filteredApps
     }
+   
 
     const filteredApps = cardList.filter(
       eachS => eachS.Category === activeTabId,
@@ -160,7 +145,17 @@ class AppStore extends Component {
 }
   render() {
     const { activeTabId, cardList } = this.state
+    
+const result = cardList.reduce((finalArray, current) => {
+  let obj = finalArray.find((item) => item.CardHolder === current.CardHolder);
+  if (obj) {
+    return finalArray;
+  }
+  return finalArray.concat([current]);
+}, []);
  
+console.log("result :-> ", result);
+   
     const filteredApps = this.getActiveTabApps(cardList)
 
     return (
@@ -185,12 +180,12 @@ class AppStore extends Component {
           </ul>
 
           <div>
-            <FcGrid />
-            <FcDatabase />
+            <FcGrid className='small-logo' />
+            <FcDatabase className='small-logo'/>
           </div>
 
         </div>
-        <hr />
+     
         <div className='pop-con'>
 
           <Popup trigger={
@@ -209,15 +204,18 @@ class AppStore extends Component {
                 <input id="burner" type="checkbox" onClick={this.SelectBurner} />
                 <label className='input-label' htmlFor='burner'>Burner</label>
                 <input id="sub" type="checkbox" onClick={this.SelectSub} />
+                  
                 <label className='input-label' htmlFor='sub'>Subcription</label>
               </div>
               <div className='card-con'>
                 <p className='cardholder-heading'>card holder</p>
                 <select className='select-cardholder'>
                   <option>Select Cardholder</option>
-                  {cardList.map(eachOwner => (
+                  { result.map(eachOwner => (
                     <option key={eachOwner.Id} value={eachOwner.CardHolder}>{eachOwner.CardHolder}</option>
+                    
                   ))}
+               
                 </select>
                 <div className='button-con'>
                   <button onClick={this.ApplyChanges} className='button-apply'>apply</button>
@@ -230,7 +228,7 @@ class AppStore extends Component {
 
         </div>
         <div>
-        <hr />
+    
         <InfiniteScroll
           dataLength={this.state.ApiNumber}
           next={this.fetchMoreData}

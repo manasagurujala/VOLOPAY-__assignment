@@ -117,6 +117,10 @@
   border-radius: 5px;
   border: transparent ;
 }
+.small-logo{
+  height: 35px;
+  width: 35px;
+}
 .button-clear{
   width:250px;
   background-color:whitesmoke;
